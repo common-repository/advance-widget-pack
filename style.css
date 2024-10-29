@@ -1,0 +1,43 @@
+.awp_widget {
+    border-bottom: 1px solid #333333;
+    padding-bottom: 10px;
+}
+.awp_widget .post-title {
+    font-size: 16px;
+}
+.awp-post-item div {
+    margin-bottom: 5px;
+}
+.awp_widget li{
+    list-style: square;
+}
+.awp_widget .alignleft img {
+    width:70px;
+    border-radius:10px;
+}
+.awp_widget .details, .awp_widget .details p{
+    font-size:13px;
+}
+.awp-list li {
+    border-bottom: 1px solid #d3d3d3;
+    list-style: none;
+}
+.awp-list li:last-child {
+    border-bottom: none;
+}
+.awp_widget .post-excerpt p{
+    font-size:14px;
+}
+.awp-comment-avatar {
+    float: left;
+    margin-right: 5px;
+}
+.awp-comment-avatar img {
+    border-radius: 50%;
+}
+.awp-comment-text {
+    clear: both;
+}
+.awp-author-inner .aligncenter {
+    text-align: center;
+}
